@@ -10,3 +10,4 @@ else:
     print("No se cumplen todas las condiciones")
 
 #agregamos informacion al archivo
+print ("hola")
